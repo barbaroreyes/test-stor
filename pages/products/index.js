@@ -22,10 +22,10 @@ const Products = () => {
 
   return (
     <div className={styles.container}>
-      Products
+      <h2 className={styles.name}>Products</h2>
       {allProducts.map((item ,i)=>{
         return (<Link  href='/products/:id' key={i} >
-                 <div className={styles.card}>
+                <div className={styles.card}>
                <h1>{item.name}</h1>  
                 <h2>{item.category}</h2>
                 <div className={styles.imageContainer}>
