@@ -10,6 +10,12 @@
       "StackName": "amplify-teststor-dev-125637",
       "StackId": "arn:aws:cloudformation:us-east-1:217175807922:stack/amplify-teststor-dev-125637/339b3f90-9411-11ec-947d-0a4b6194886d",
       "AmplifyAppId": "d1u3d86xvm4mgn"
+    },
+    "categories": {
+      "auth": {
+        "teststor8f97784a": {},
+        "true": {}
+      }
     }
   }
 }
