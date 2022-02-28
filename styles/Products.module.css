@@ -6,7 +6,7 @@
     align-items: center;
 }
 .card{
-    width: 350px;
+    width: 35t 0px;
     height: 400px;
     display : flex;
     flex-direction: column;
@@ -19,5 +19,5 @@
 .name{
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: centeri;
 }
